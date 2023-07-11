@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
 
   s.ios.vendored_frameworks = 'iProov.xcframework'
 
-  s.dependency 'Starscream', '~> 4.0'
+  s.dependency 'BNCStarscream', '~> 4.0'
   
 end
